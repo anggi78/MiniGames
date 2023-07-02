@@ -1,0 +1,2 @@
+# MiniGames
+Gunting Batu Kertas
