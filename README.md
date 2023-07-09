@@ -1,3 +1,2 @@
 # MiniGames
 Gunting Batu Kertas
-........................
